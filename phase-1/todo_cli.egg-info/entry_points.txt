@@ -1,0 +1,3 @@
+[console_scripts]
+todo = src.__main__:main
+todomenu = src.main:main
